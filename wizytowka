@@ -1,0 +1,15 @@
+#include
+using namespace std;
+int main()
+{
+
+cout << "Moja wizytowka:" << endl;
+cout << endl << "Jan Kowalski" << endl;
+cout << "ul. Muminkow 15" << endl;
+cout << "19-160 Warszawa \n";
+cout << "e-mail: kowal@wp.pl";
+
+char znak;
+cin >> znak;
+
+}
